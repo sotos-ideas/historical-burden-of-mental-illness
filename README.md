@@ -5,7 +5,9 @@ It is easy to forget that certain chronic diseases affecting the brain were comm
 
 It would be interesting, therefore, to sum the prevalance estimates for these diseases, with the goal of estimating how many people walking around central Europe in 1300 (or whatever) were mentally deranged.  Surely it must be orders of magnitude more common than now.  What effect would that have had on society?
 
-With infectious and nutritional diseases leading the way, examples include:
+As one tangible societal effect, James R. Flynn found that scores on IQ tests performed on US military recruits in the 20th century rose about 3 points per decade (McHugh and Slavney, The Perspectives of Psychiatry, 2nd ed., p105, citing Psychological Bulletin 1984; 95: 29-51).
+
+With infectious and nutritional diseases leading the way, example diseases to consider include:
 
 - Infectious
   - syphilis
