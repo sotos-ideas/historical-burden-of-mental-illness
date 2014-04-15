@@ -26,6 +26,6 @@ With infectious and nutritional diseases leading the way, examples include:
 - post-traumatic brain conditions
 - birth-related brain damage
 
-As just one example, immediately before penicillin appeared in the mid-1940s, one out of every 42 persons in the United States had syphilis, and in some large populations the figure was one in eight!  (Stokes, Modern Clinical Syphilology, 3rd ed., 1944,  page 1185)  Of course, there was little or no syphlis in 1300, but there was a lot more malnutrition.
+As just one example, immediately before penicillin appeared in the mid-1940s, one out of every 42 persons in the United States had syphilis, and in some large populations the figure was one in eight!  (Stokes, Modern Clinical Syphilology, 3rd ed., 1944,  page 1185)  Of course, there was little or no syphilis in 1300, but there was a lot more malnutrition.
 
 If life in the past was indeed nasty, brutish, and short, then the fraction of people walking around with unscathed brains must have been far smaller than today.
